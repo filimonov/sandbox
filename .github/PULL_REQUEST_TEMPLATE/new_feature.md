@@ -2,7 +2,7 @@
 name: New Feature
 about: Pull request with new feature
 title: ''
-labels: feature
+labels: pr-feature
 assignees: ''
 
 ---
